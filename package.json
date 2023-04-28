@@ -1,0 +1,25 @@
+{
+  "name": "maluchotaaloo",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apoorva-saxena/maluchotaaloo.git"
+  },
+  "keywords": [
+    "Apoorva",
+    "Saxena",
+    "Maloo's",
+    "mumma"
+  ],
+  "author": "Apoorva Saxena Maloo's mumma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorva-saxena/maluchotaaloo/issues"
+  },
+  "homepage": "https://github.com/apoorva-saxena/maluchotaaloo#readme"
+}
