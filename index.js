@@ -1,6 +1,7 @@
 //index.js
 
-function helloNpm() {
+function helloNpm(name) {
+    console.log("name: ", name)
     return "hello NPM"
   }
   
